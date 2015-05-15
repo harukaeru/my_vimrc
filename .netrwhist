@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/private/var/log/com.apple.launchd.peruser.0'
+let g:netrw_dirhist_2='/Users/usrNeko/ShortcutCommand/bin'
+let g:netrw_dirhist_3='/etc'
+let g:netrw_dirhist_4='/Users/usrNeko/.vim'
+let g:netrw_dirhist_5='/Users/usrNeko/work/0515/goocus3-server/core/models'
+let g:netrw_dirhist_6='/Users/usrNeko/work/0515/goocus3-server/cms'
