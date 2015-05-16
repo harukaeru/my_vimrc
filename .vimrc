@@ -10,6 +10,7 @@ set softtabstop=0
 set spell
 set spelllang=en,cjk
 
+set directory=$HOME/.vim/swapfiles//
 
 "source /Users/usrNeko/.vim/indent/python.vim
 set hlsearch
@@ -23,7 +24,8 @@ autocmd FileType python syntax spell toplevel
 au BufRead *.html syntax spell toplevel
 autocmd BufWritePre * :%s/\s\+$//ge
 
-set number
+set nu
+set rnu
 iabbrev neko@ nekoneko.myaomyao@gmail.com
 nnoremap , "*y
 
